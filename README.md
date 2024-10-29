@@ -1,4 +1,4 @@
-MIT 6.824 Distributed Systems
+# MIT 6.824 Distributed Systems
 
 This repository contains my solutions to the labs of the MIT 6.824 Distributed Systems course. The course is taught by Robert Morris, Frans Kaashoek, and Nickolai Zeldovich. The course website is available [here](http://nil.csail.mit.edu/6.824/2020/).
 
